@@ -82,8 +82,5 @@ typedef std::vector<Action> ActionVect;
 // reward type for RL interface
 typedef int reward_t;
 
-// Other constant values
-#define RAM_LENGTH 128
-
 #endif // __CONSTANTS_H__
 
